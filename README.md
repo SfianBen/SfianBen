@@ -75,8 +75,7 @@ Je suis un futur ingénieur en cybersécurité, curieux et motivé, avec une for
 ## 📫 Me contacter
 
 - 📧 **Email** : soufiane.asx@gmail.com
-- 💼 **LinkedIn** : [[https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/soufiane-benchekroun/)]
-
+- 💼 **LinkedIn** : [https://linkedin.com/in/soufiane-benchekroun/](https://linkedin.com/in/soufiane-benchekroun/)
 ---
 
 > 🔍 *“Sécuriser, c’est comprendre avant d’agir.”*
