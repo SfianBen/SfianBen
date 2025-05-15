@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Soufiane !
 
-🎓 Étudiant en informatique & cybersécurité | 🔐 Pentester débutant | 🛠️ Passionné de systèmes et réseaux
+🎓 Étudiant en informatique & cybersécurité | 
 
 ---
 
